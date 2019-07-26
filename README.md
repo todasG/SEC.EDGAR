@@ -53,7 +53,7 @@ IEnumerable\<Filings\> GetOwnerFilings(string ownerId, string filingType, string
 IEnumerable\<Owner\> GetOwnerDetails(string companyId); //Company Id can only be company's stock symbol or SEC CIK#.
 
 <b><u>DownloadFile</u></b><br>
-int x = edgar.DownloadFile(string url, string directoryPath, boolean useDefaultFileName, string FileName);
+int x = edgar.DownloadFile(string url, string directoryPath, boolean useDefaultFileName, string FileName); //x = 0 means download was successful. x = -1 means download was not successful.
 
 
 
