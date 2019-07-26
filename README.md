@@ -1,9 +1,9 @@
 
 # SEC.EDGAR
 
-A .Net library for interacting with the Securities Exchange Commission (SEC) EDGAR System.<br><br>
+A .Net library for interacting with the Securities Exchange Commission (SEC) EDGAR System.<br>
 
-More than 30 filing types can be retrieved..., including:<br><br>
+More than 30 filing types can be retrieved..., including:
 
 3 Reports - Initial statement of beneficial ownership of securities.<br>
 4 Reports - Statement of changes in beneficial ownership of securities.<br>
