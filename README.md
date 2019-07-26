@@ -31,10 +31,10 @@ PM> Install-Package SEC.EDGAR<br><br>
 
 ## Instructions:
 
-Create an EDGAR object.<br><br>
+Create an EDGAR object.<br>
 var edgar = new EDGAR("productKey", "e-mailAddress", RequestCacheLevel.BypassCache);
 
-The library does not cache calls. You can change cache option.<br><br>
+The library does not cache calls. You can change cache option.<br>
 var edgar = new EDGAR("productKey", "e-mailAddress", RequestCacheLevel.BypassCache); //Default Option
 
 
