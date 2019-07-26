@@ -1,26 +1,26 @@
 
 # SEC.EDGAR
 
-A .Net library for interacting with the Securities Exchange Commission (SEC) EDGAR System.
+A .Net library for interacting with the Securities Exchange Commission (SEC) EDGAR System.<br><br>
 
-More than 30 filing types can be retrieved..., including:
+More than 30 filing types can be retrieved..., including:<br><br>
 
-3 Reports - Initial statement of beneficial ownership of securities.
-4 Reports - Statement of changes in beneficial ownership of securities.
-4 Amended Report - Amended Statement of changes in beneficial ownership of securities
-5 Reports - Annual statement of changes in beneficial ownership of securities.
-8K Reports - Current report, items 7.01 and 9.01.
-10K Reports.
-10K Amended Reports.
-10-Q Report - Quarterly report [Sections 13 or 15(d)].
-11K Report - Annual report of employee stock purchase, savings and similar plans.
-13-F Reports.
-13F-HR Reports - Quarterly report filed by institutional managers, Holdings.
-Annual Reports.
-Semi-Annual Reports.
-Prospectuses.
-Summary Prospectuses.
-...and more.
+3 Reports - Initial statement of beneficial ownership of securities.<br>
+4 Reports - Statement of changes in beneficial ownership of securities.<br>
+4 Amended Report - Amended Statement of changes in beneficial ownership of securities.<br>
+5 Reports - Annual statement of changes in beneficial ownership of securities.<br>
+8K Reports - Current report, items 7.01 and 9.01.<br>
+10K Reports.<br>
+10K Amended Reports.<br>
+10-Q Report - Quarterly report [Sections 13 or 15(d)].<br>
+11K Report - Annual report of employee stock purchase, savings and similar plans.<br>
+13-F Reports.<br>
+13F-HR Reports - Quarterly report filed by institutional managers, Holdings.<br>
+Annual Reports.<br>
+Semi-Annual Reports.<br>
+Prospectuses.<br>
+Summary Prospectuses.<br>
+...and more.<br>
 
 
 ## Installation:
